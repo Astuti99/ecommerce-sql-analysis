@@ -9,6 +9,12 @@ This project demonstrates SQL skills used in data analysis and business reportin
 
 ---
 
+# 🔗 ER Diagram
+
+![ER Diagram](ER-Diagram.png)
+
+---
+
 # 🗂️ Tables Used
 
 ## Users
@@ -74,6 +80,6 @@ This project demonstrates SQL skills used in data analysis and business reportin
 
 # 👩‍💻 Author
 
-Astuti
+Astuti Jha
 
 📧 astutijha.12345@gmail.com
