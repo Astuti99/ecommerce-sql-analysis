@@ -1,6 +1,6 @@
-# 📊 E-Commerce SQL Analysis
+#  E-Commerce SQL Analysis
 
-## 📌 Overview
+##  Overview
 This project analyzes customer orders, product sales, and revenue trends using SQL.
 
 The database contains Users, Orders, and Products tables connected using primary and foreign keys.
@@ -9,46 +9,10 @@ This project demonstrates SQL skills used in data analysis and business reportin
 
 ---
 
-# 🔗 ER Diagram
+#  ER Diagram
 
 ![ER Diagram](ER-Diagram.png)
 
----
-
-# 🗂️ Tables Used
-
-## Users
-- customer_id
-- first_name
-- last_name
-- email
-- phone
-- created_at
-
-## Orders
-- order_id
-- order_datetimestamp
-- amount_paid
-- product_id
-- customer_id
-
-## Products
-- product_id
-- product_name
-- category
-- price
-
----
-
-# 🛠️ SQL Concepts Used
-
-- Joins
-- Group By
-- Aggregate Functions
-- Subqueries
-- Window Functions
-- Dense Rank
-- Date Functions
 
 ---
 
@@ -71,14 +35,7 @@ This project demonstrates SQL skills used in data analysis and business reportin
 
 ---
 
-# 🚀 Tools Used
-
-- SQL Server
-- SSMS (SQL Server Management Studio)
-
----
-
-# 👩‍💻 Author
+#  Author
 
 Astuti
 
