@@ -16,7 +16,7 @@ This project demonstrates SQL skills used in data analysis and business reportin
 
 ---
 
-# 📈 Analysis Performed
+#  Analysis Performed
 
 - Customer order analysis
 - Revenue analysis
