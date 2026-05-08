@@ -27,14 +27,6 @@ This project demonstrates SQL skills used in data analysis and business reportin
 
 ---
 
-# 📁 Files Included
-
-- Orders_Users_Products.sql
-- ER-Diagram.png
-- README.md
-
----
-
 #  Author
 
 Astuti
